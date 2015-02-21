@@ -1,4 +1,4 @@
-libdrm-armada (2.0.2-1) unstable; urgency=low
+libdrm-armada (2.0.2) unstable; urgency=low
 
   * Updates for kernel ABI changes.
   * Add DRM prime support.
@@ -7,14 +7,14 @@ libdrm-armada (2.0.2-1) unstable; urgency=low
 
  -- Russell King <rmk_cubox@arm.linux.org.uk>  Tue, 2 Nov 2013 11:19:57 +0100
 
-libdrm-armada (2.0.1-1) unstable; urgency=low
+libdrm-armada (2.0.1) unstable; urgency=low
 
   * Rename to Armada as this covers more devices than just the Armada 510
     Dove.
 
  -- Russell King <rmk_cubox@arm.linux.org.uk>  Tue, 21 May 2013 10:54:58 +0100
 
-libdrm-dove (2.0.0-1) unstable; urgency=low
+libdrm-dove (2.0.0) unstable; urgency=low
 
   * Re-vamp API to allow a buffer manager object, stop passing fd into
     every function.
@@ -22,14 +22,14 @@ libdrm-dove (2.0.0-1) unstable; urgency=low
 
  -- Russell King <rmk_cubox@arm.linux.org.uk>  Sun, 5 May 2013 13:47:28 +0100
 
-libdrm-dove (1.0.1-1) unstable; urgency=low
+libdrm-dove (1.0.1) unstable; urgency=low
 
   * Add drm_dove_bo_create_from_name()
   * Add drm_dove_bo_flink()
 
  -- Russell King <rmk_cubox@arm.linux.org.uk>  Tue, 23 Oct 2012 17:28:17 +0100
 
-libdrm-dove (1.0.0-1) unstable; urgency=low
+libdrm-dove (1.0.0) unstable; urgency=low
 
   * Initial release.
 
